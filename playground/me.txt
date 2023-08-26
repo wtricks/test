@@ -1,5 +1,0 @@
-{{#user}}
-Name: Anuj Kumar
-Skills: HTML, CSS, JS, React.js, Vue.js, PHP, SQL, Git, Java, Spring MVC
-Email: anujkumar00p@gmail.com
-{{/user}}
